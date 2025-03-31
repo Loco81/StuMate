@@ -9,16 +9,16 @@
 <br>
 <div align="center">
   <p align="right">
-    <img width="200" src="/images/01.png" alt="StuMate" />
-    <img width="200" src="/images/02.png" alt="StuMate" />
-    <img width="200" src="/images/03.png" alt="StuMate" />
+    <img width="200" src="/images/01.jpg" alt="StuMate" />
+    <img width="200" src="/images/02.jpg" alt="StuMate" />
+    <img width="200" src="/images/03.jpg" alt="StuMate" />
   </p>
 </div>
 <br>
 <div align="center">
   <p align="right">
-    <img width="300" src="/images/04.png" alt="StuMate" />
-    <img width="300" src="/images/05.png" alt="StuMate" />
+    <img width="300" src="/images/04.jpg" alt="StuMate" />
+    <img width="300" src="/images/05.jpg" alt="StuMate" />
   </p>
 </div>
 <br>
