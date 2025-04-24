@@ -1,4 +1,4 @@
-<h1 align="center"> StuMate </h1>
+<h1 align="center"> <img width="30" src="/images/icon.png" alt="StuMate" /> StuMate </h1>
 <h3 align="center"> <a href="https://loco81.ir/skills/StuMate"> Click here to visit StuMate on my site </a> </h3>
 <h3 align="center"> <a href="http://cafebazaar.ir/app/?id=com.LoCo.StuMate&ref=share"> Click here to visit StuMate on market </a> </h3>
 <p align="center"> Calculate GPA and cashshare!😀 </p>
