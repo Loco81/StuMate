@@ -1,6 +1,7 @@
 <h1 align="center"> <img width="30" src="/images/icon.png" alt="StuMate" /> StuMate </h1>
 <h3 align="center"> <a href="https://loco81.ir/skills/StuMate?lang=en"> Click here to visit StuMate on my site </a> </h3>
-<h3 align="center"> <a href="https://cafebazaar.ir/app/com.LoCo.StuMate"> Click here to visit StuMate on market </a> </h3>
+<h3 align="center"> <a href="https://cafebazaar.ir/app/com.LoCo.StuMate"> Click here to visit StuMate on Bazaar </a> </h3>
+<h3 align="center"> <a href="https://myket.ir/app/com.LoCo.StuMate"> Click here to visit StuMate on Myket </a> </h3>
 <p align="center"> Calculate GPA and cashshare!😀 </p>
 <p align="center"> Are you worried about your GPA?🤔 Or did you buy something with your friends but cash share calculation  is complicated and want to calculate cash share? StuMate will help you in this field!🤩 With the ability to save grades in a file to import into the program and use at other times...😉 You can even separate the lessons to which ones affect the GPA or not. The appearance of the program has very attractive effects and the ability to customize the colors and theme of the program to your taste!😋 Download it now and use it until you are a student. Guys, share your suggestions or criticisms for the next update in the contact me section of the site </p>
 <br>
